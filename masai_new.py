@@ -1,3 +1,5 @@
 print(40)
 print(50)
 print(60)
+print(40)
+print(50)
